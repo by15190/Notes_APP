@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NotesAPP" parent="Theme.MaterialComponents.Light">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">@color/purple2</item>
+
+    </style>
+
+    <style name="Theme.NotesAPP" parent="Base.Theme.NotesAPP" />
+
+    <style name="progressbar">
+        <item name="colorSecondary">#021EFF</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Light mode color -->
+        <item name="android:statusBarColor">@color/status_bar_color_light</item>
+    </style>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Notes APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">home blank fragment</string>
+</resources>
