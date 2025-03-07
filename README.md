@@ -68,7 +68,7 @@ app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/notes-app.git
+git clone https://github.com/by1590/Notes_APP.git
 ```
 
 2. Open the project in Android Studio
@@ -99,9 +99,6 @@ data class Note(
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
